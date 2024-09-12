@@ -1,0 +1,5 @@
+npm updatenpm run build
+rm -rf .nextnpm run buildnpm run devnpm cache clean --force
+rm -rf node_modules package-lock.json
+npm install
+npm install sass --save-dev

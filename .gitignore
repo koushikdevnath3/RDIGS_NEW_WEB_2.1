@@ -6,3 +6,6 @@
 .next/cache/webpack/server-production/2.pack
 *.pack
 node_modules
+node_modules
+node_modules
+node_modules
